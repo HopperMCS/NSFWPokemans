@@ -1,55 +1,55 @@
 _OakSpeechText1::
 	text "Hello there!"
 	line "Welcome to the"
-	cont "world of #MON!"
+	cont "world of POKEMANS!"
 
-	para "My name is OAK!"
+	para "My name is BOFA!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "DEEZ NUTZ!"
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
 	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	cont "SLUTS from"
+	cont "Elida!@@"
 
 _OakSpeechText2B::
 	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	line "SLUTS are"
+	cont "HOES. Others use"
+	cont "their PUSSY LIPS."
 
 	para "Myself..."
 
-	para "I study #MON"
+	para "I fuck SLUTS"
 	line "as a profession."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Give size of"
+	line "your dick!"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "This is my nigga"
+	line "He been"
+	cont "yo bitch since"
+	cont "you had a dick."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Uhh, what is"
+	line "his dick size?"
 	prompt
 
 _OakSpeechText3::
 	text $52,"!"
 
 	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	line "sexy herpies is"
+	cont "about to spread!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "Dry humping"
+	line "and sluts"
+	cont "in bed!"
+	cont "Get hard!"
 	done
