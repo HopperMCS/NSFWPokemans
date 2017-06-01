@@ -1,5 +1,4 @@
 # Linux
-
 	sudo apt-get install make gcc bison git python
 
 	git clone https://github.com/bentley/rgbds
@@ -7,7 +6,7 @@
 	sudo make install
 	cd ..
 
-	git clone --recursive https://github.com/pret/pokered
+	git clone --recursive https://github.com/MGageMorgan/NSFWPokemans.git
 	cd pokered
 
 To build **pokered.gbc** and **pokeblue.gbc**:
